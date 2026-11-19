@@ -12,7 +12,7 @@ dependencies {
     implementation("com.google.android.material:material:1.14.0")
     implementation("com.google.protobuf:protobuf-javalite:4.36.1")
 
-    // CriCri Mods: tests that walk the home screen like a person would (Robolectric, on the PC; also save
+    // Kaiodev: tests that walk the home screen like a person would (Robolectric, on the PC; also save
     // screenshots of each screen to fusionApp/build/telas for a visual check without a phone).
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.robolectric:robolectric:4.14.1")
@@ -48,7 +48,7 @@ android {
     defaultConfig {
         minSdk = 24
         targetSdk = 36
-        // CriCri Mods: the Play Store package id is permanent once published.
+        // Kaiodev: the Play Store package id is permanent once published.
         applicationId = "br.com.cricribr.mods"
         versionCode = 6
         versionName = "0.3.2"
