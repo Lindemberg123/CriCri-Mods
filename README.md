@@ -1,10 +1,10 @@
-# CriCri Mods (fork of Fusion Core)
+# Kaiodev (fork of Fusion Core)
 
-**CriCri Mods** is a modified version of [Fusion Core](https://github.com/All-Of-Us-Mods/FusionCore) by All Of Us,
+**Kaiodev** is a modified version of [Fusion Core](https://github.com/All-Of-Us-Mods/FusionCore) by All Of Us,
 forked from release `0.045` (commit `bf4c69d`) on 2026-11-07. It is licensed under the GNU GPL v3, like the original
 (see `LICENSE`).
 
-The app opens the Among Us the player already installed from Google Play, with the CriCri mods loaded. It is
+The app opens the Among Us the player already installed from Google Play, with the Kaiodev mods loaded. It is
 distributed as an APK on the CRICRI BR site (no Play Store). The game itself is never changed or copied.
 
 What this fork changes:
@@ -28,7 +28,7 @@ What this fork changes:
 | Otimização | `embutidos/CriCriOtimizacao` | FPS limit and counter, resolution slider, quick start, streamer mode |
 | Login | `embutidos/CriCriConta` | Hands the login made in the app to the game; keeps the account's outfit |
 | Servidor CRICRI BR | `embutidos/CriCriServidor` | The CRICRI BR region and the room options tab |
-| CriCri Replay | binary only (`fusionApp/src/main/assets/mods/CriCriReplay.dll`) | Watch your matches again inside the game |
+| Replay | binary only (`fusionApp/src/main/assets/mods/CriCriReplay.dll`) | Watch your matches again inside the game |
 
 `embutidos/CriCriMenu` is kept for reference and is not in the app. Every DLL in `assets/mods` is listed in
 `mods.json` with its SHA-256, and the app refuses a file whose hash does not match. None of the mods send game

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CriCri Mods</string>
-    <!-- CriCri Mods: home screen -->
+    <string name="app_name">Kaiodev</string>
+    <!-- Kaiodev: home screen -->
     <string name="game_name" translatable="false">Among Us</string>
     <string name="game_not_installed">Não está instalado</string>
     <string name="jogo_pronto">Pronto pra jogar</string>
     <string name="jogo_nao_conferido">Um mod ainda não foi conferido</string>
     <string name="mods_title">Mods</string>
     <string name="mod_autor_format">%1$s · v%2$s</string>
-    <string name="autor_do_app" translatable="false">CriCri</string>
+    <string name="autor_do_app" translatable="false">Kaiodev</string>
     <string name="mod_sempre_ligado">Sempre ligado</string>
     <string name="relatorio_titulo">O jogo fechou sozinho</string>
-    <string name="relatorio_texto">Mande o relatório pro CriCri consertar. Ele leva o modelo do celular e o erro, nada da sua conta.</string>
+    <string name="relatorio_texto">Mande o relatório pro Kaiodev consertar. Ele leva o modelo do celular e o erro, nada da sua conta.</string>
     <string name="relatorio_mandar">Mandar</string>
     <string name="relatorio_agora_nao">Agora não</string>
-    <string name="relatorio_assunto">Relatório do CriCri Mods</string>
+    <string name="relatorio_assunto">Relatório do Kaiodev</string>
     <string name="relatorio_copiado">Relatório copiado.</string>
-    <string name="oficina_nome">CriCri Oficina</string>
+    <string name="oficina_nome">Kaiodev Oficina</string>
     <string name="oficina_descricao">Crie mapas e funções e jogue com os amigos.</string>
     <string name="oficina_em_breve">Em breve</string>
     <!-- the home-screen shortcut against the habit of opening the plain game (tools/Atalho) -->
@@ -83,14 +83,14 @@
     <string name="no_store">Não achei a Play Store neste aparelho.</string>
     <string name="disclaimer">Este app não é afiliado ao Among Us nem à Innersloth LLC, e o conteúdo não é endossado nem patrocinado pela Innersloth LLC. Partes do material são propriedade da Innersloth LLC. © Innersloth LLC.</string>
     <string name="open_source_notice">Código aberto (GPL-3.0) · ver licenças</string>
-    <string name="about_title">Sobre o CriCri Mods</string>
-    <string name="about_text_format">CriCri Mods %1$s\n\nVersão modificada do Fusion Core, © os autores do Fusion Core (All Of Us). Modificações © 2026 CriCri.\n\nEste programa é software livre: você pode redistribuí-lo e modificá-lo sob os termos da GNU General Public License versão 3, publicada pela Free Software Foundation.\n\nEle é distribuído na esperança de ser útil, mas SEM NENHUMA GARANTIA, nem mesmo a garantia implícita de COMERCIALIZAÇÃO ou de ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Veja a GNU General Public License para mais detalhes.\n\nCódigo-fonte desta versão: %2$s</string>
+    <string name="about_title">Sobre o Kaiodev</string>
+    <string name="about_text_format">Kaiodev %1$s\n\nVersão modificada do Fusion Core, © os autores do Fusion Core (All Of Us). Modificações © 2026 CriCri.\n\nEste programa é software livre: você pode redistribuí-lo e modificá-lo sob os termos da GNU General Public License versão 3, publicada pela Free Software Foundation.\n\nEle é distribuído na esperança de ser útil, mas SEM NENHUMA GARANTIA, nem mesmo a garantia implícita de COMERCIALIZAÇÃO ou de ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Veja a GNU General Public License para mais detalhes.\n\nCódigo-fonte desta versão: %2$s</string>
     <string name="about_source_missing">(versão de teste, ainda sem endereço público)</string>
     <string name="about_view_license">Ver licença</string>
     <string name="about_third_party">Licenças</string>
     <string name="about_close">Fechar</string>
     <string name="bootstrap_status_installing_mods">Instalando os mods…</string>
-    <!-- CriCri Mods: first-run guide -->
+    <!-- Kaiodev: first-run guide -->
     <string name="guia_ver_de_novo">Como usar o app</string>
     <string name="guia_contador_format">%1$d de %2$d</string>
     <string name="guia_pular">Pular</string>
@@ -100,12 +100,12 @@
     <string name="guia_conta_texto">Entre com o Google pra jogar com seu nome e cosméticos.</string>
     <string name="guia_jogar_titulo">É só tocar em JOGAR</string>
     <string name="guia_jogar_texto">O Among Us abre com os mods ligados.</string>
-    <!-- CriCri Mods: the second home-screen icon, straight into the game -->
+    <!-- Kaiodev: the second home-screen icon, straight into the game -->
     <string name="entrada_label">Jogar com mods</string>
     <string name="entrada_login_title">Entrar antes de jogar?</string>
     <string name="entrada_login_format">O login de %1$s venceu (dura 1 hora).</string>
     <string name="entrada_jogar_convidado">Jogar como convidado</string>
-    <!-- CriCri Mods: "Entrar com o Google" (login through Innersloth's official account site) -->
+    <!-- Kaiodev: "Entrar com o Google" (login through Innersloth's official account site) -->
     <string name="conta_title">Conta</string>
     <string name="conta_convidado_nome">Convidado</string>
     <string name="conta_convidado_status">Sem seu nome nem cosméticos</string>
@@ -124,7 +124,7 @@
     <string name="conta_sair_feito">Você saiu. O jogo entra como convidado.</string>
     <string name="login_como_title">Como entrar</string>
     <string name="login_como_texto">Escolha sua conta do Google. Depois, na página da Innersloth, toque no ✓ lá em cima.</string>
-    <string name="login_passos_nota">Sem o ✓? Toque em ⋮ → Compartilhar → CriCri Mods.</string>
+    <string name="login_passos_nota">Sem o ✓? Toque em ⋮ → Compartilhar → Kaiodev.</string>
     <string name="login_abrir">Abrir o Google</string>
     <string name="login_cancelar">Agora não</string>
     <string name="login_lembrete">Na página da Innersloth, toque no ✓ lá em cima</string>
@@ -132,10 +132,10 @@
     <string name="login_usar_este">Usar este login</string>
     <string name="conta_colar_vazio">Não tem nada copiado. Copie o endereço da página da Innersloth primeiro.</string>
     <string name="conta_sem_navegador">Não achei um navegador neste aparelho.</string>
-    <string name="conta_compartilhar_label">Entrar no CriCri Mods</string>
+    <string name="conta_compartilhar_label">Entrar no Kaiodev</string>
     <string name="conta_erro_title">Não deu pra entrar</string>
     <string name="conta_fechar">Fechar</string>
-    <string name="conta_erro_nao_pedido">Pra entrar, toque em Entrar dentro do CriCri Mods.</string>
+    <string name="conta_erro_nao_pedido">Pra entrar, toque em Entrar dentro do Kaiodev.</string>
     <string name="conta_erro_sem_endereco">Não achei o login. Compartilhe a página da Innersloth, a que abre depois de escolher a conta.</string>
     <string name="conta_erro_nao_google">Aqui só dá pra entrar com o Google.</string>
     <string name="conta_erro_token">Esse login não vale pro Among Us. Toque em Entrar de novo.</string>
